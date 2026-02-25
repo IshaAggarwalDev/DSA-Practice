@@ -30,10 +30,10 @@ Problems are organized topic-wise for better understanding:
 📂 Dynamic Programming  
 
 ### Each folder contains:
-✔️ Clean solutions
-✔️ Optimized approaches
-✔️ Well-structured code
-✔️ Important edge cases
+✔️ Clean solutions<br>
+✔️ Optimized approaches<br>
+✔️ Well-structured code<br>
+✔️ Important edge cases<br>
 
 ## 🛠️ Topics Covered
 🔹 Core Data Structures
