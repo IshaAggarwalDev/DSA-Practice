@@ -7,11 +7,11 @@ This repository contains my structured solutions to various coding problems.
 The goal is to build strong fundamentals in Data Structures and Algorithms while maintaining consistency and improving logical thinking.
 
 ## 🎯 Objectives
-📚 Master core Data Structures & Algorithms
-💡 Improve logical thinking & optimization skills
-🏆 Prepare for coding interviews
-📈 Maintain daily problem-solving consistency
-🔍 Learn multiple approaches to the same problem
+📚 Master core Data Structures & Algorithms<br>
+💡 Improve logical thinking & optimization skills<br>
+🏆 Prepare for coding interviews<br>
+📈 Maintain daily problem-solving consistency<br>
+🔍 Learn multiple approaches to the same problem<br>
 
 ### 🗂️ Repository Structure
 Problems are organized topic-wise for better understanding:
@@ -37,36 +37,36 @@ Problems are organized topic-wise for better understanding:
 
 ## 🛠️ Topics Covered
 🔹 Core Data Structures
-Arrays
-Strings
-Linked List
-Stack
-Queue
-Trees
-Graphs
+Arrays<br>
+Strings<br>
+Linked List<br>
+Stack<br>
+Queue<br>
+Trees<br>
+Graphs<br>
 🔹 Algorithmic Techniques
-Binary Search
-Sliding Window
-Two Pointers
-Recursion
-Backtracking
-Greedy Algorithms
-Dynamic Programming
+Binary Search<br>
+Sliding Window<br>
+Two Pointers<br>
+Recursion<br>
+Backtracking<br>
+Greedy Algorithms<br>
+Dynamic Programming<br>
  
 ## 📊 Practice Platform LeetCode
-📈 My Learning Approach
-🔁 Solve daily problems
-🧩 Understand brute-force first
-⚡ Optimize step by step
-📝 Revise important patterns
-🧠 Focus on pattern recognition
+📈 My Learning Approach<br>
+🔁 Solve daily problems<br>
+🧩 Understand brute-force first<br>
+⚡ Optimize step by step<br>
+📝 Revise important patterns<br>
+🧠 Focus on pattern recognition<br>
 
 ## 🌟 Why This Repository?
 This repository represents:
-Consistency
-Discipline
-Structured learning
-Continuous improvement
+Consistency<br>
+Discipline<br>
+Structured learning<br>
+Continuous improvement<br>
 It showcases my dedication to mastering problem-solving and preparing for technical interviews.
 
 ## 📌 Connect With Me
