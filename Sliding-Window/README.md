@@ -1,5 +1,14 @@
 # Sliding-Window
 
+## 239. Sliding Window Maximum
+Problem Link: https://leetcode.com/problems/sliding-window-maximum/
+Difficulty: Hard
+### Approach: Sliding Window + TreeMap (Balanced BST)
+Time Complexity: O(n log k)
+Space Complexity: O(k)
+### Concepts Used:
+Sliding Window Technique, Two Pointers (i & j), TreeMap (Balanced BST), Frequency Counting, Window Expansion & Shrinking, Maximum Retrieval using lastKey()
+
 ## 1358. Number of Substrings Containing All Three Characters
 Problem Link: https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/
 Difficulty: Medium
