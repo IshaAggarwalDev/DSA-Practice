@@ -18,6 +18,15 @@ Space Complexity: O(1)
 ### Concepts Used:
 Sliding Window Technique, Two Pointers (i & j), Zero Counting, Window Expansion & Shrinking, Maximum Length Tracking, At Most K Constraint
 
+## 1248. Count Number of Nice Subarrays
+Problem Link: https://leetcode.com/problems/count-number-of-nice-subarrays/
+Difficulty: Medium
+### Approach: Sliding Window (Odd Count Transformation)
+Time Complexity: O(n)
+Space Complexity: O(1)
+### Concepts Used:
+Sliding Window Technique, Two Pointers (i & j), Odd–Even Transformation, Subarray Counting Logic, Prefix Contribution Technique, Exact K Constraint
+
 ## 1358. Number of Substrings Containing All Three Characters
 Problem Link: https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/
 Difficulty: Medium
