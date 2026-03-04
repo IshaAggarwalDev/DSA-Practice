@@ -1,5 +1,14 @@
 # Binary-Search
 
+## 33. Search in Rotated Sorted Array
+Problem Link: https://leetcode.com/problems/search-in-rotated-sorted-array/
+Difficulty: Medium
+### Approach: Modified Binary Search (Rotated Array Logic)
+Time Complexity: O(log n)
+Space Complexity: O(1)
+### Concepts Used:
+Binary Search, Divide and Conquer, Rotated Sorted Array Property, Sorted Half Identification, Two Pointers (Low & High), Mid Calculation, Target Range Checking, Half Search Space Reduction
+
 ## 35. Search Insert Position
 Problem Link: https://leetcode.com/problems/search-insert-position/
 Difficulty: Easy
