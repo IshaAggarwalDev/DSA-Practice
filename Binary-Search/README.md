@@ -1,5 +1,14 @@
 # Binary-Search
 
+## 35. Search Insert Position
+Problem Link: https://leetcode.com/problems/search-insert-position/
+Difficulty: Easy
+### Approach: Binary Search (Optimized)
+Time Complexity: O(log n)
+Space Complexity: O(1)
+### Concepts Used:
+Binary Search, Divide and Conquer, Two Pointers (Low & High), Mid Calculation, Sorted Array Requirement, Lower Bound Concept, Half Search Space Reduction
+
 ## 153. Find Minimum in Rotated Sorted Array
 Problem Link: https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/
 Difficulty: Medium
