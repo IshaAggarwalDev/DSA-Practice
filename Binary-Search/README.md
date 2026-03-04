@@ -1,5 +1,14 @@
 # Binary-Search
 
+## 153. Find Minimum in Rotated Sorted Array
+Problem Link: https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/
+Difficulty: Medium
+### Approach: Binary Search (Optimized)
+Time Complexity: O(log n)
+Space Complexity: O(1)
+### Concepts Used:
+Binary Search on Rotated Array, Divide and Conquer, Two Pointers (Low & High), Mid Calculation (Overflow Prevention), Sorted Half Identification, Half Search Space Reduction
+
 ## 162. Find Peak Element
 Problem Link: https://leetcode.com/problems/find-peak-element/
 Difficulty: Medium
