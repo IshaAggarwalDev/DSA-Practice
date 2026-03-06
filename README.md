@@ -34,28 +34,28 @@ More platforms may be added in the future as I continue my learning journey.
 
 Problems are organized **topic-wise** for better understanding and revision.
 
-📂 Arrays
-📂 Strings
-📂 Linked List
-📂 Stack
-📂 Queue
-📂 Recursion
-📂 Searching & Sorting
-📂 Binary Search
-📂 Sliding Window
-📂 Two Pointers
-📂 Trees
-📂 Graphs
-📂 Dynamic Programming
+📂 Arrays<br>
+📂 Strings<br>
+📂 Linked List<br>
+📂 Stack<br>
+📂 Queue<br>
+📂 Recursion<br>
+📂 Searching & Sorting<br>
+📂 Binary Search<br>
+📂 Sliding Window<br>
+📂 Two Pointers<br>
+📂 Trees<br>
+📂 Graphs<br>
+📂 Dynamic Programming<br>
 
 ---
 
 # 📁 Each Folder Contains
 
-✔️ Clean and readable solutions
-✔️ Optimized approaches
-✔️ Well-structured code
-✔️ Important edge cases
+✔️ Clean and readable solutions<br>
+✔️ Optimized approaches<br>
+✔️ Well-structured code<br>
+✔️ Important edge cases<br>
 
 ---
 
@@ -63,23 +63,23 @@ Problems are organized **topic-wise** for better understanding and revision.
 
 ## 🔹 Core Data Structures
 
-Arrays
-Strings
-Linked List
-Stack
-Queue
-Trees
-Graphs
+Arrays<br>
+Strings<br>
+Linked List<br>
+Stack<br>
+Queue<br>
+Trees<br>
+Graphs<br>
 
 ## 🔹 Algorithmic Techniques
 
-Binary Search
-Sliding Window
-Two Pointers
-Recursion
-Backtracking
-Greedy Algorithms
-Dynamic Programming
+Binary Search<br>
+Sliding Window<br>
+Two Pointers<br>
+Recursion<br>
+Backtracking<br>
+Greedy Algorithms<br>
+Dynamic Programming<br>
 
 ---
 
