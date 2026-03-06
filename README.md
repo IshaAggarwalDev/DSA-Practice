@@ -22,11 +22,11 @@ More platforms may be added in the future as I continue my learning journey.
 
 # 🎯 Objectives
 
-📚 Master core **Data Structures & Algorithms**
-💡 Improve **logical thinking & optimization skills**
-🏆 Prepare for **coding interviews**
-📈 Maintain **consistent problem-solving practice**
-🔍 Learn **multiple approaches to the same problem**
+📚 Master core **Data Structures & Algorithms**<br>
+💡 Improve **logical thinking & optimization skills**<br>
+🏆 Prepare for **coding interviews**<br>
+📈 Maintain **consistent problem-solving practice**<br>
+🔍 Learn **multiple approaches to the same problem**<br>
 
 ---
 
@@ -96,11 +96,11 @@ Problems in this repository are solved from:
 
 # 📈 My Learning Approach
 
-🔁 Solve problems consistently
-🧩 Understand the **brute-force approach first**
-⚡ Optimize solutions step-by-step
-📝 Revise important **DSA patterns**
-🧠 Focus on **pattern recognition**
+🔁 Solve problems consistently<br>
+🧩 Understand the **brute-force approach first**<br>
+⚡ Optimize solutions step-by-step<br>
+📝 Revise important **DSA patterns**<br>
+🧠 Focus on **pattern recognition**<br>
 
 ---
 
