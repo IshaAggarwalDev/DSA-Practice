@@ -1,76 +1,126 @@
-# 🚀 LeetCode & DSA Practice Repository
-🧠 Strengthening problem-solving skills through consistent Data Structures & Algorithms practice.
+# DSA Practice Repository 🚀
 
-## 📌 About This Repository
-Welcome to my dedicated LeetCode & DSA Practice repository!
-This repository contains my structured solutions to various coding problems.
-The goal is to build strong fundamentals in Data Structures and Algorithms while maintaining consistency and improving logical thinking.
+🧠 Strengthening problem-solving skills through consistent **Data Structures & Algorithms practice**.
 
-## 🎯 Objectives
-📚 Master core Data Structures & Algorithms<br>
-💡 Improve logical thinking & optimization skills<br>
-🏆 Prepare for coding interviews<br>
-📈 Maintain daily problem-solving consistency<br>
-🔍 Learn multiple approaches to the same problem<br>
+---
 
-### 🗂️ Repository Structure
-Problems are organized topic-wise for better understanding:
+# 📌 About This Repository
 
-📂 Arrays  
-📂 Strings  
-📂 Linked List  
-📂 Stack  
-📂 Queue  
-📂 Recursion  
-📂 Searching & Sorting  
-📂 Binary Search  
-📂 Sliding Window  
-📂 Two Pointers  
-📂 Trees  
-📂 Graphs  
-📂 Dynamic Programming  
+Welcome to my **DSA Practice Repository**!
 
-### Each folder contains:
-✔️ Clean solutions<br>
-✔️ Optimized approaches<br>
-✔️ Well-structured code<br>
-✔️ Important edge cases<br>
+This repository contains my structured solutions to various **Data Structures and Algorithms problems** solved from multiple coding platforms.
+The goal is to **build strong DSA fundamentals**, improve **problem-solving ability**, and prepare for **technical interviews and coding assessments**.
 
-## 🛠️ Topics Covered
-🔹 Core Data Structures
-Arrays<br>
-Strings<br>
-Linked List<br>
-Stack<br>
-Queue<br>
-Trees<br>
-Graphs<br>
-🔹 Algorithmic Techniques
-Binary Search<br>
-Sliding Window<br>
-Two Pointers<br>
-Recursion<br>
-Backtracking<br>
-Greedy Algorithms<br>
-Dynamic Programming<br>
- 
-## 📊 Practice Platform LeetCode
-📈 My Learning Approach<br>
-🔁 Solve daily problems<br>
-🧩 Understand brute-force first<br>
-⚡ Optimize step by step<br>
-📝 Revise important patterns<br>
-🧠 Focus on pattern recognition<br>
+Currently, I am solving problems from:
 
-## 🌟 Why This Repository?
+* **LeetCode**
+* **GeeksforGeeks (GFG)**
+
+More platforms may be added in the future as I continue my learning journey.
+
+---
+
+# 🎯 Objectives
+
+📚 Master core **Data Structures & Algorithms**
+💡 Improve **logical thinking & optimization skills**
+🏆 Prepare for **coding interviews**
+📈 Maintain **consistent problem-solving practice**
+🔍 Learn **multiple approaches to the same problem**
+
+---
+
+# 🗂️ Repository Structure
+
+Problems are organized **topic-wise** for better understanding and revision.
+
+📂 Arrays
+📂 Strings
+📂 Linked List
+📂 Stack
+📂 Queue
+📂 Recursion
+📂 Searching & Sorting
+📂 Binary Search
+📂 Sliding Window
+📂 Two Pointers
+📂 Trees
+📂 Graphs
+📂 Dynamic Programming
+
+---
+
+# 📁 Each Folder Contains
+
+✔️ Clean and readable solutions
+✔️ Optimized approaches
+✔️ Well-structured code
+✔️ Important edge cases
+
+---
+
+# 🛠️ Topics Covered
+
+## 🔹 Core Data Structures
+
+Arrays
+Strings
+Linked List
+Stack
+Queue
+Trees
+Graphs
+
+## 🔹 Algorithmic Techniques
+
+Binary Search
+Sliding Window
+Two Pointers
+Recursion
+Backtracking
+Greedy Algorithms
+Dynamic Programming
+
+---
+
+# 💻 Platforms Used
+
+Problems in this repository are solved from:
+
+* **LeetCode**
+* **GeeksforGeeks**
+
+*(More platforms such as Codeforces, HackerRank, etc. may be added in the future.)*
+
+---
+
+# 📈 My Learning Approach
+
+🔁 Solve problems consistently
+🧩 Understand the **brute-force approach first**
+⚡ Optimize solutions step-by-step
+📝 Revise important **DSA patterns**
+🧠 Focus on **pattern recognition**
+
+---
+
+# 🌟 Why This Repository?
+
 This repository represents:
-Consistency<br>
-Discipline<br>
-Structured learning<br>
-Continuous improvement<br>
-It showcases my dedication to mastering problem-solving and preparing for technical interviews.
 
-## 📌 Connect With Me
-Feel free to explore the repository and follow my journey 🚀
+Consistency
+Discipline
+Structured learning
+Continuous improvement
 
-### ✨ “Consistency beats intensity.”
+It showcases my dedication to **mastering problem-solving and preparing for technical interviews**.
+
+---
+
+# 📌 Connect With Me
+
+Feel free to explore the repository and follow my learning journey 🚀
+
+---
+
+### ✨ *“Consistency beats intensity.”*
