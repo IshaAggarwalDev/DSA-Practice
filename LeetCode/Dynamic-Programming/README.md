@@ -17,3 +17,15 @@ Time Complexity: O(n)
 Space Complexity: O(1)
 ### Concepts Used: 
 Greedy Algorithm, Array Traversal
+
+## 70. Climbing Stairs  
+Problem Link: https://leetcode.com/problems/climbing-stairs/  
+Difficulty: Easy  
+### Approach: Dynamic Programming (Fibonacci Pattern)
+Time Complexity: O(n)  
+Space Complexity: O(1)  
+### Concepts Used:
+Dynamic Programming, Fibonacci Sequence, Iteration, Space Optimization  
+
+
+
